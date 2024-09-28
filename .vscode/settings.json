@@ -49,6 +49,13 @@
         "map": "cpp",
         "optional": "cpp",
         "unordered_map": "cpp",
-        "version": "cpp"
+        "version": "cpp",
+        "charconv": "cpp",
+        "deque": "cpp",
+        "memory": "cpp",
+        "forward_list": "cpp",
+        "print": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
     }
 }
