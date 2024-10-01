@@ -9,3 +9,4 @@
 ## 사용 언어
 - Python
 - C++
+- CUDA
