@@ -20,4 +20,5 @@ int main() {
 
     test.Print();
     test.Base::Print();
+    return 0;
 }

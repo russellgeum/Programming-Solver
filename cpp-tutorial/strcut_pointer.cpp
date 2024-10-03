@@ -5,6 +5,7 @@ struct Base {
     int a = 1;
     virtual ~Base() {}
 };
+
 struct Drv1 : Base {
     void f() {
         cout << "Drv1::f()" << endl;
@@ -12,6 +13,7 @@ struct Drv1 : Base {
     }
     float x = 3.14;
 };
+
 struct Drv2 : Base {
     void f() {
         cout << "Drv2::f() " << endl;
